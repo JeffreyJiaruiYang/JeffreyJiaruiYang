@@ -1,4 +1,5 @@
-# Hi there, I'm Jeffrey Jiarui Yang 👋    
+# Hi there, I'm Jeffrey Jiarui Yang 👋  
+```javascript
 class Person {
   constructor() {
     this.name = "Jeffrey Jiarui Yang";
