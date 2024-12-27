@@ -1,4 +1,18 @@
 # Hi there, I'm Jeffrey Jiarui Yang 👋    
+class Person {
+  constructor() {
+    this.name = "Jeffrey Jiarui Yang";
+    this.motto = "Build something meaningful that benefits people.";
+    this.age = 2024 - 2003; // Senior student at Virginia Tech (expected graduation: May 2025)
+    this.skills = ["Java", "Kotlin", "C++", "Rust", "Python", "JavaScript", "React", "Flask"];
+    this.currentProjects = [
+      "AI-based travel planning web app (backend: Flask, frontend: React)",
+      "Frontend-focused flip card customization project (TypeScript, Vite)",
+    ];
+    this.remark =
+      "Art enthusiast, scholarship recipient, and aspiring technologist dedicated to designing tools that simplify interaction and inspire innovation.";
+  }
+}
 
 ### 🚀 About Me
 I'm a senior Computer Science student with a passion for mobile app development, particularly using Kotlin and Android. My expertise lies in creating interactive and user-friendly applications that integrate with various APIs and leverage modern development practices.
